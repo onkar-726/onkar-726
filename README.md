@@ -155,7 +155,7 @@ A project focused on detecting potholes and applying technology to a real-world 
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar0726&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onkar-726&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
