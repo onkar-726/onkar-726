@@ -149,7 +149,7 @@ An IoT-based project designed to detect road irregularities using **ESP32 and an
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=onkar-726&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Graph"
+    alt="Onkar's GitHub Contribution Graph"
   />
 </p>
 
