@@ -1,55 +1,89 @@
 <h1 align="center">Hi 👋, I'm Onkar Londhe</h1>
 
 <h3 align="center">
-Electronics & Computer Science Engineering Student
+  Electronics & Computer Science Student
 </h3>
 
 <p align="center">
-Java • DSA • Backend Development • Embedded Systems
+  <b>Embedded Systems • Java • DSA • Backend Development</b>
 </p>
 
 <p align="center">
   <a href="https://github.com/onkar-726">
-    <img src="https://komarev.com/ghpvc/?username=onkar-726&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=onkar-726&label=Profile%20Views&color=0e75b6&style=flat-square" />
   </a>
   <a href="https://github.com/onkar-726?tab=followers">
-    <img src="https://img.shields.io/github/followers/onkar-726?label=Followers&style=flat-square" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/onkar-726?label=Followers&style=flat-square" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/onkar-londhe-21b1a1321/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/onkar726/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="mailto:olondhe726@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 💫 About Me
 
-- 🎓 Electronics & Computer Science Engineering student
-- 💻 Building a strong foundation in **Java and Object-Oriented Programming**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🌱 Learning **SQL, MySQL and Backend Development**
-- 🔌 Working with **Arduino and ESP32**
-- 🛠️ Interested in building practical software and embedded systems projects
+🎓 Electronics & Computer Science student interested in both hardware and software.
+
+🔌 Working with **Embedded Systems, Arduino & ESP32**
+
+💻 Building my programming skills with **Java**
+
+🧠 Practicing **Data Structures & Algorithms** regularly
+
+🌱 Learning **SQL, MySQL & Backend Development**
+
+🚀 Exploring **Spring Boot & REST APIs**
+
+🛠️ Interested in building practical solutions to real-world problems
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 What I'm Working With
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-Primary-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DSA-Active-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arduino-Embedded-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ESP32-Embedded-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+</p>
+
+<p align="center">
+  🔌 Embedded Systems &nbsp; • &nbsp;
+  🤖 Arduino &nbsp; • &nbsp;
+  📡 ESP32 &nbsp; • &nbsp;
+  💻 Java &nbsp; • &nbsp;
+  🧠 DSA &nbsp; • &nbsp;
+  🚀 Backend
+</p>
+
+---
+
+## 💻 Tech Stack
 
 ### 👨‍💻 Programming
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 ### 🔌 Embedded & IoT
@@ -57,15 +91,15 @@ Java • DSA • Backend Development • Embedded Systems
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-6A5ACD?style=for-the-badge"/>
 </p>
 
 ### 🌐 Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools
@@ -76,36 +110,6 @@ Java • DSA • Backend Development • Embedded Systems
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 📚 Library Management System — Java
-
-A console-based Library Management System developed using **Core Java and Object-Oriented Programming principles**.
-
-**Concepts Used:**
-
-`Classes & Objects` • `Encapsulation` • `Inheritance` • `Polymorphism` • `Abstraction` • `Collections` • `Exception Handling`
-
-🔗 [View Repository](https://github.com/onkar-726/library-management-system-java)
-
----
-
-### 🛣️ IoT-Based Pothole & Speed Breaker Detection
-
-An IoT-based project designed to detect road irregularities using **ESP32 and an ultrasonic sensor**.
-
-**Features:**
-
-- Detects potholes and speed breakers
-- Displays distance readings on LCD
-- Provides buzzer alerts
-- Logs detection data using Google Sheets
-- Uses ESP32 for IoT connectivity
-
-🔗 [View Repository](https://github.com/onkar-726/iot-pothole-speed-breaker-detection)
 
 ---
 
@@ -120,37 +124,94 @@ An IoT-based project designed to detect road irregularities using **ESP32 and an
 
 <p align="center">
   <a href="https://leetcode.com/u/onkar726/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+    <img src="https://img.shields.io/badge/View%20LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
+Currently practicing:
+
+`Arrays` • `Strings` • `Hashing` • `Binary Search` • `Two Pointers` • `Recursion`
+
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=onkar-726&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+### 📚 Library Management System — Java
+
+A console-based Library Management System developed using **Core Java and Object-Oriented Programming principles**.
+
+**Concepts Used:**
+
+`Classes & Objects` • `Encapsulation` • `Inheritance` • `Polymorphism` • `Abstraction` • `Collections` • `Exception Handling`
+
+🔗 [View Repository →](https://github.com/onkar-726/library-management-system-java)
+
+---
+
+### 🛣️ IoT-Based Pothole & Speed Breaker Detection
+
+An IoT-based project focused on detecting road irregularities using **ESP32 and an ultrasonic sensor**.
+
+**Features:**
+
+- Pothole and speed breaker detection
+- Distance measurement using ultrasonic sensor
+- LCD display for distance readings
+- Buzzer alert system
+- Data logging using Google Sheets
+- ESP32-based IoT implementation
+
+🔗 [View Repository →](https://github.com/onkar-726/iot-pothole-speed-breaker-detection)
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=onkar-726&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Onkar's GitHub Streak"
   />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 📈 Contribution Activity
 
-- Strengthening **Java & OOP**
-- Improving **DSA & problem solving**
-- Learning **SQL & MySQL**
-- Building a strong foundation for **Spring Boot**
-- Developing practical **backend projects**
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=onkar-726&theme=tokyo-night&hide_border=true&area=true"
+    alt="Onkar's GitHub Contribution Graph"
+  />
+</p>
+
+---
+
+## 🎯 Current Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java%20%26%20DSA-🧠-ED8B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL%20%26%20MySQL-🗄️-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-🌱-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-🌐-02569B?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🚀 Goals
+
+* Strengthen DSA & problem solving
+* Improve Java programming
+* Learn Spring Boot deeply
+* Build REST APIs
+* Improve MySQL & backend development
+* Continue working with Arduino & ESP32
+* Build practical software and embedded projects
 
 ---
 
